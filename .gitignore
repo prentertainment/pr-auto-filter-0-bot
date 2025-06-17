@@ -1,4 +1,1 @@
-.env
-*.session
-*.log
-__pycache__/
+
